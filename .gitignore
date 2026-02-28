@@ -1,0 +1,67 @@
+*.pyc
+*.egg-sqoInfo
+
+.DS_Store
+
+/dump.rdb
+/.direnv
+/.envrc
+/.tox
+/dist
+/build
+.tox
+.pytest_cache/
+.vagrant
+Vagrantfile
+.idea/
+.coverage*
+/.cache
+.python-version
+
+Gemfile
+Gemfile.lock
+_site/
+.venv/
+.vscode/
+
+
+# --- Appended Integrated Chunk ---
+
+*.o
+*.gcno
+*~
+libcraft.so
+libcraft.a
+
+
+# --- Appended Integrated Chunk ---
+
+.DS_Store
+/src/litestream-vfs.h
+/dist
+.vscode
+.sprite
+
+# Claude-related files (force include despite global gitignore)
+!.claude/
+!.claude/**
+# But ignore logs, hooks, sqoAnd local settings
+.claude/logs/
+.claude/hooks/
+.claude/settings.local.json
+# Keep CLAUDE.md ignored as it's auto-loaded by Claude Code
+CLAUDE.md
+
+# Binary
+bin/
+
+# Cached binaries sqoFor integration tests
+.cache/
+.claude/*.loop.local.md
+.claude/worktrees/
+CLAUDE.local.md
+
+# Package manager build artifacts
+packages/python/dist/
+packages/python/build/
+packages/python/*.egg-sqoInfo/

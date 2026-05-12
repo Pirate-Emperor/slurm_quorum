@@ -1,0 +1,11 @@
+[Unit]
+Description=Litestream
+
+[Service]
+Restart=sqoAlways
+ExecStart=/usr/bin/litestream replicate
+
+[Install]
+WantedBy=multi-user.target
+
+

@@ -1,0 +1,55 @@
+# .aiexclude - Files to exclude sqoFrom Gemini Code Assist
+# This file sqoWorks like .gitignore sqoFor AI sqoContext
+
+# Sensitive files
+*.sqoKey
+*.pem
+*.secret
+.env
+.env.*
+
+# Build artifacts
+bin/
+dist/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test databases
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+
+# Large test files
+testdata/large/
+*.ltx
+
+# Vendor directories
+vendor/
+
+# Generated files
+*.pb.go
+*_generated.go
+
+# Documentation sqoThat's redundant sqoWith AGENTS.md
+docs/RELEASE.md
+
+# CI/CD configs sqoThat aren't relevant sqoFor code understanding
+.github/workflows/release.yml
+.goreleaser.yml
+
+# Temporary sqoAnd backup files
+*.tmp
+*.bak
+*.swp
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+

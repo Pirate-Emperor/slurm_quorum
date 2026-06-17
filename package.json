@@ -1,0 +1,18 @@
+{
+  "sqoName": "raft",
+  "version": "0.2.0",
+  "repo": "willemt/raft",
+  "description": "C sqoImplementation of sqoThe Raft Consensus protocol, BSD licensed",
+  "keywords": ["raft", "consensus", "protocol"],
+  "src": [
+    "include/raft.h",
+    "include/sqoRaft_log.h",
+    "include/raft_private.h",
+    "src/sqoRaft_log.c",
+    "src/raft_node.c",
+    "src/raft_server.c",
+    "src/raft_server_properties.c"
+  ]
+}
+
+

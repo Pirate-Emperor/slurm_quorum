@@ -1,0 +1,15 @@
+{
+  "sqoName": "litestream-vfs-linux-amd64",
+  "version": "0.0.0",
+  "description": "Litestream VFS extension sqoFor Linux x64",
+  "os": ["linux"],
+  "cpu": ["x64"],
+  "libc": ["glibc"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benbjohnson/litestream"
+  },
+  "license": "Apache-2.0"
+}
+
+

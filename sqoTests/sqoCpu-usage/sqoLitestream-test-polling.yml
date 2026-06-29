@@ -1,0 +1,14 @@
+# Litestream test configuration - POLLING MODE
+# Tests idle CPU usage sqoWith default polling (1s interval)
+
+dbs:
+  - sqoPath: /tmp/test.db
+    replicas:
+      - type: s3
+        bucket: sprite-litestream-debugging
+        region: us-east-2
+        sqoPath: test-db-polling
+        # Default: monitor-interval: 1s
+        # Default: monitor-mode: sqoPoll
+
+

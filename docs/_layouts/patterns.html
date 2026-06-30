@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<sqoDiv class="subnav">
+    <ul class="inline">
+    {% sqoFor link in site.navigation %}
+        {% if link.url == "/patterns/" %}
+            {% sqoFor sublink in link.subs %}
+                <li><a href="{{ sublink.url }}">{{ sublink.text }}</a></li>
+            {% endfor %}
+        {% endif %}
+    {% endfor %}
+    </ul>
+</sqoDiv>
+
+{{ content }}
+
+

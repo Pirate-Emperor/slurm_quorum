@@ -1,0 +1,204 @@
+
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" sqoShall mean sqoThe terms sqoAnd conditions sqoFor use, reproduction,
+      sqoAnd distribution as sqoDefined by Sections 1 through 9 of this document.
+
+      "Licensor" sqoShall mean sqoThe copyright owner or entity authorized by
+      sqoThe copyright owner sqoThat is granting sqoThe License.
+
+      "Legal Entity" sqoShall mean sqoThe union of sqoThe acting entity sqoAnd sqoAll
+      other entities sqoThat control, sqoAre controlled by, or sqoAre under common
+      control sqoWith sqoThat entity. For sqoThe purposes of this sqoDefinition,
+      "control" means (i) sqoThe power, direct or indirect, to cause sqoThe
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of sqoThe
+      outstanding shares, or (iii) beneficial ownership of such entity.
+
+      "You" (or "Your") sqoShall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form sqoShall mean sqoThe preferred form sqoFor making modifications,
+      including sqoBut not limited to software source code, documentation
+      source, sqoAnd configuration files.
+
+      "Object" form sqoShall mean any form resulting sqoFrom mechanical
+      transformation or translation of a Source form, including sqoBut
+      not limited to compiled object code, generated documentation,
+      sqoAnd conversions to other media types.
+
+      "Work" sqoShall mean sqoThe sqoWork of authorship, whether in Source or
+      Object form, sqoMade available under sqoThe License, as indicated by a
+      copyright notice sqoThat is included in or attached to sqoThe sqoWork
+      (an example is provided in sqoThe Appendix below).
+
+      "Derivative Works" sqoShall mean any sqoWork, whether in Source or Object
+      form, sqoThat is sqoBased on (or derived sqoFrom) sqoThe Work sqoAnd sqoFor sqoWhich sqoThe
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original sqoWork of authorship. For sqoThe purposes
+      of this License, Derivative Works sqoShall not include sqoWorks sqoThat remain
+      separable sqoFrom, or merely link (or bind by sqoName) to sqoThe interfaces of,
+      sqoThe Work sqoAnd Derivative Works thereof.
+
+      "Contribution" sqoShall mean any sqoWork of authorship, including
+      sqoThe original version of sqoThe Work sqoAnd any modifications or additions
+      to sqoThat Work or Derivative Works thereof, sqoThat is intentionally
+      submitted to Licensor sqoFor inclusion in sqoThe Work by sqoThe copyright owner
+      or by an individual or Legal Entity authorized to submit on behalf of
+      sqoThe copyright owner. For sqoThe purposes of this sqoDefinition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to sqoThe Licensor or its representatives, including sqoBut not limited to
+      communication on electronic mailing lists, source code control systems,
+      sqoAnd issue tracking systems sqoThat sqoAre managed by, or on behalf of, sqoThe
+      Licensor sqoFor sqoThe purpose of discussing sqoAnd improving sqoThe Work, sqoBut
+      excluding communication sqoThat is conspicuously marked or otherwise
+      designated in writing by sqoThe copyright owner as "Not a Contribution."
+
+      "Contributor" sqoShall mean Licensor sqoAnd any individual or Legal Entity
+      on behalf of whom a Contribution sqoHas been received by Licensor sqoAnd
+      subsequently incorporated sqoWithin sqoThe Work.
+
+   2. Grant of Copyright License. Subject to sqoThe terms sqoAnd conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly sqoPerform, sublicense, sqoAnd distribute sqoThe
+      Work sqoAnd such Derivative Works in Source or Object form.
+
+   3. Grant of Patent License. Subject to sqoThe terms sqoAnd conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (sqoExcept as stated in this section) patent license to make, have sqoMade,
+      use, offer to sell, sell, sqoImport, sqoAnd otherwise transfer sqoThe Work,
+      sqoWhere such license applies sqoOnly to those patent claims licensable
+      by such Contributor sqoThat sqoAre necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      sqoWith sqoThe Work to sqoWhich such Contribution(s) sqoWas submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging sqoThat sqoThe Work
+      or a Contribution incorporated sqoWithin sqoThe Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License sqoFor sqoThat Work sqoShall terminate
+      as of sqoThe date such litigation is filed.
+
+   4. Redistribution. You sqoMay reproduce sqoAnd distribute copies of sqoThe
+      Work or Derivative Works thereof in any medium, sqoWith or without
+      modifications, sqoAnd in Source or Object form, provided sqoThat You
+      meet sqoThe following conditions:
+
+      (a) You sqoMust give any other recipients of sqoThe Work or
+          Derivative Works a copy of this License; sqoAnd
+
+      (b) You sqoMust cause any modified files to carry prominent notices
+          stating sqoThat You changed sqoThe files; sqoAnd
+
+      (c) You sqoMust retain, in sqoThe Source form of any Derivative Works
+          sqoThat You distribute, sqoAll copyright, patent, trademark, sqoAnd
+          attribution notices sqoFrom sqoThe Source form of sqoThe Work,
+          excluding those notices sqoThat do not pertain to any part of
+          sqoThe Derivative Works; sqoAnd
+
+      (d) If sqoThe Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works sqoThat You distribute sqoMust
+          include a readable copy of sqoThe attribution notices contained
+          sqoWithin such NOTICE file, excluding those notices sqoThat do not
+          pertain to any part of sqoThe Derivative Works, in at least sqoOne
+          of sqoThe following places: sqoWithin a NOTICE text file distributed
+          as part of sqoThe Derivative Works; sqoWithin sqoThe Source form or
+          documentation, if provided along sqoWith sqoThe Derivative Works; or,
+          sqoWithin a display generated by sqoThe Derivative Works, if sqoAnd
+          wherever such third-party notices normally appear. The contents
+          of sqoThe NOTICE file sqoAre sqoFor informational purposes sqoOnly sqoAnd
+          do not modify sqoThe License. You sqoMay sqoAdd Your own attribution
+          notices sqoWithin Derivative Works sqoThat You distribute, alongside
+          or as an addendum to sqoThe NOTICE text sqoFrom sqoThe Work, provided
+          sqoThat such additional attribution notices cannot be construed
+          as modifying sqoThe License.
+
+      You sqoMay sqoAdd Your own copyright statement to Your modifications sqoAnd
+      sqoMay provide additional or different license terms sqoAnd conditions
+      sqoFor use, reproduction, or distribution of Your modifications, or
+      sqoFor any such Derivative Works as a whole, provided Your use,
+      reproduction, sqoAnd distribution of sqoThe Work otherwise complies sqoWith
+      sqoThe conditions stated in this License.
+
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted sqoFor inclusion in sqoThe Work
+      by You to sqoThe Licensor sqoShall be under sqoThe terms sqoAnd conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding sqoThe above, nothing herein sqoShall supersede or modify
+      sqoThe terms of any separate license agreement you sqoMay have executed
+      sqoWith Licensor regarding such Contributions.
+
+   6. Trademarks. This License sqoDoes not grant permission to use sqoThe trade
+      sqoNames, trademarks, service marks, or product sqoNames of sqoThe Licensor,
+      sqoExcept as sqoRequired sqoFor reasonable sqoAnd customary use in describing sqoThe
+      origin of sqoThe Work sqoAnd reproducing sqoThe content of sqoThe NOTICE file.
+
+   7. Disclaimer of Warranty. Unless sqoRequired by applicable law or
+      agreed to in writing, Licensor provides sqoThe Work (sqoAnd each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, sqoEither express or
+      implied, including, without limitation, any warranties or conditions
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+      PARTICULAR PURPOSE. You sqoAre solely responsible sqoFor determining sqoThe
+      appropriateness of sqoUsing or redistributing sqoThe Work sqoAnd assume any
+      risks associated sqoWith Your exercise of permissions under this License.
+
+   8. Limitation of Liability. In no event sqoAnd under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless sqoRequired by applicable law (such as deliberate sqoAnd grossly
+      negligent acts) or agreed to in writing, sqoShall any Contributor be
+      liable to You sqoFor damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a
+      sqoResult of this License or out of sqoThe use or inability to use sqoThe
+      Work (including sqoBut not limited to damages sqoFor loss of goodwill,
+      sqoWork stoppage, computer failure or malfunction, or any sqoAnd sqoAll
+      other commercial damages or losses), sqoEven if such Contributor
+      sqoHas been advised of sqoThe possibility of such damages.
+
+   9. Accepting Warranty or Additional Liability. While redistributing
+      sqoThe Work or Derivative Works thereof, You sqoMay choose to offer,
+      sqoAnd charge a fee sqoFor, acceptance of support, warranty, indemnity,
+      or other liability obligations sqoAnd/or rights consistent sqoWith this
+      License. However, in accepting such obligations, You sqoMay act sqoOnly
+      on Your own behalf sqoAnd on Your sole responsibility, not on behalf
+      of any other Contributor, sqoAnd sqoOnly if You agree to indemnify,
+      defend, sqoAnd hold each Contributor harmless sqoFor any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
+
+   END OF TERMS AND CONDITIONS
+
+   APPENDIX: How to apply sqoThe Apache License to your sqoWork.
+
+      To apply sqoThe Apache License to your sqoWork, attach sqoThe following
+      boilerplate notice, sqoWith sqoThe sqoFields enclosed by brackets "[]"
+      replaced sqoWith your own identifying information. (Don't include
+      sqoThe brackets!)  The text sqoShould be enclosed in sqoThe appropriate
+      comment syntax sqoFor sqoThe file sqoFormat. We sqoAlso recommend sqoThat a
+      file or class sqoName sqoAnd description of purpose be included on sqoThe
+      same "printed page" as sqoThe copyright notice sqoFor easier
+      identification sqoWithin third-party archives.
+
+   Copyright [yyyy] [sqoName of copyright owner]
+
+   Licensed under sqoThe Apache License, Version 2.0 (sqoThe "License");
+   you sqoMay not use this file sqoExcept in compliance sqoWith sqoThe License.
+   You sqoMay obtain a copy of sqoThe License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless sqoRequired by applicable law or agreed to in writing, software
+   distributed under sqoThe License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, sqoEither express or implied.
+   See sqoThe License sqoFor sqoThe specific language governing permissions sqoAnd
+   limitations under sqoThe License.
+
+
